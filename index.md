@@ -25,7 +25,7 @@ OpenProject | [есть](https://en.wikipedia.org/wiki/OpenProject) | [есть]
 
 Мертвецы: [InDefero](http://www.indefero.net), [ChiliProject](https://www.chiliproject.org/).
 
-Неохваченные: http://web2project.net/ , https://bestpractical.com/ , http://www.kimai.org/ , https://taiga.io/, https://www.gerritcodereview.com/ (дофига [плагинов](https://gerrit.googlesource.com/?format=HTML), кстати) , [WeKan](https://wekan.io/), [Gitboard](http://adewes.github.io/gitboard/index.html).
+Неохваченные: http://web2project.net/ , https://bestpractical.com/ , http://www.kimai.org/ , https://taiga.io/, https://www.gerritcodereview.com/ (дофига [плагинов](https://gerrit.googlesource.com/?format=HTML), кстати) , [WeKan](https://wekan.io/), [Gitboard](http://adewes.github.io/gitboard/index.html), [odoo](https://www.odoo.com/), [Anuko](https://www.anuko.com/time_tracker/), [Taskwarrior](https://taskwarrior.org/).
 
 Проприетарщина поганая: [Stash](https://en.wikipedia.org/wiki/Stash_%28software%29), [Trello](https://trello.com/).
 
